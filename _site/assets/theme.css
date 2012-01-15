@@ -1,0 +1,15 @@
+body {
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+
+a {
+  color: #000;
+}
+a:visited {
+  color: #333;
+}
+
+#menu a, #menu a:visited {
+  text-decoration: none;
+}

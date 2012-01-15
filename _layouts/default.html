@@ -5,18 +5,15 @@
 
 <body class="{{ page.id }}">
   <div class="container">
-    <div class="desktop">
-      {% include header.html %}   
-    </div>
+    {% include header.html %} 
+    {% include menu.html %}
+    {% include kevend.html %}  
     
     <section id="content" class="{{ page.title | downcase | replace:' ', '-' }}">
       {{ content }}
     </section>  
     
-    <div class="mobile">
-      {% include header.html %}   
-    </div>
-    
+    {% include footer.html %}   
   </div>
 </body>
 </html>
