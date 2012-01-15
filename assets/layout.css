@@ -30,8 +30,3 @@ h3 { font-size:2.11538em; padding:1.44305em 0; }
 /* Header
 */
 
-#header h1, #header h2, #header h3 {
-  padding-bottom: 0;
-  text-align: center;
-}
-

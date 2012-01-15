@@ -1,15 +1,32 @@
 body {
   font-family: 'Love Ya Like A Sister', cursive;
+  color: #8C61CF;
 }
+
 
 
 a {
   color: #000;
+  background: #D5CD99;
 }
 a:visited {
   color: #333;
 }
+a, a:visited {
+  padding: .312em;
+}
 
-#menu a, #menu a:visited {
-  text-decoration: none;
+
+
+/* Header
+*/
+
+#header {
+  margin-bottom: 2.5em;
+}
+
+#header p {
+  background: #8C61CF;
+  color: #000;
+  padding: .312em;
 }
