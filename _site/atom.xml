@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	
+	<title type="text" xml:lang="en">Rellé Rally. </title>
+	<link type="application/atom+xml" href="/feed/" rel="self"/>
+ 	<link type="text" href="" rel="alternate"/>
+	<updated>2012-01-15T21:04:08+02:00</updated>
+	<id></id>
+	<author>
+		<name>Rellé Rally</name>
+	</author>
+	<rights></rights>
+	
+	
+</feed>
