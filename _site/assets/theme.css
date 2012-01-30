@@ -28,5 +28,6 @@ a, a:visited {
 #header p {
   background: #8C61CF;
   color: #000;
+  opacity: .7;
   padding: .312em;
 }
